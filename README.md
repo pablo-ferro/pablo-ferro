@@ -1,4 +1,4 @@
-Hi there, welcome to my github Data portfolio
+Hi there, welcome to my github Data portfolio!
 
 What are the main Data Science Projects that I am working at the moment? Let me show you:
 - Covid Vaccination in Sweden R Project: [gganimate data viz](https://github.com/pablo-ferro/Covid_Sweden_vaccination_gganimate)
