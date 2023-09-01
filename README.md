@@ -5,7 +5,7 @@ I am Pablo, BI lead and data analyst with experience in companies like H&M and A
 Here you will find my self-learning journey to understand better the power of Data.
 
 What are the main Data Science Projects that I am working at the moment? Let me show you:
-- 💉🦠 Covid Vaccination in Sweden R Project: [gganimate data viz](https://pablo-ferro.github.io/R-Vaccination-project/))
+- 💉🦠 Covid Vaccination in Sweden R Project: [gganimate data viz](https://pablo-ferro.github.io/R-Vaccination-project/)
 - 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
 - 🌸🌼 Machine Learning Iris classification: [Iris Flower classification](https://github.com/pablo-ferro/ML_iris_flower)
 - 🗣👍🏽 Natural Language Programming NLP Project: [Joe Biden speech Sentiment Analysis](https://github.com/pablo-ferro/NLP_Biden_speech)
