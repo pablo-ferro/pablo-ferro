@@ -1,10 +1,11 @@
 Hi there,
 Welcome to my github Data portfolio!
 
-I am Pablo, BI lead and data analyst with experience in companies like H&M and American Express.
+I am Pablo, Sustainability, BI lead and data analyst with experience in companies like H&M, Samsung and American Express.
 Here you will find my self-learning journey to understand better the power of Data.
 
 What are the main Data Science Projects that I am working at the moment? Let me show you:
+- 🌤️❄ Is it hot today in Sweden?: [Weather in Sweden](https://pablo-ferro.github.io/SwedishWeather/)
 - 🍅🍅 Making our garden data driven: [Tomato Project](https://pablo-ferro.github.io/TomatoProject/)
 - 💉🦠 Covid Vaccination in Sweden R Project: [gganimate data viz](https://pablo-ferro.github.io/R-Vaccination-project/)
 - 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
