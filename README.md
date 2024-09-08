@@ -5,7 +5,7 @@ I am Pablo, Sustainability, BI lead and data analyst with experience in companie
 Here you will find my self-learning journey to understand better the power of Data.
 
 What are the main Data Science Projects that I am working at the moment? Let me show you:
-- 🌤️❄ Is it hot today in Sweden?: [Weather in Sweden](https://pablo-ferro.github.io/SwedishWeather/)
+- 🌤️❄ Is it hot in Sweden today?: [Weather in Sweden](https://pablo-ferro.github.io/SwedishWeather/)
 - 🍅🍅 Making our garden data driven: [Tomato Project](https://pablo-ferro.github.io/TomatoProject/)
 - 💉🦠 Covid Vaccination in Sweden R Project: [gganimate data viz](https://pablo-ferro.github.io/R-Vaccination-project/)
 - 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
